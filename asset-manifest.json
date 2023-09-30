@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calculadora/static/css/main.41a321a2.css",
+    "main.js": "/calculadora/static/js/main.494260e2.js",
+    "static/media/IngenieroEnmanuel.jpg": "/calculadora/static/media/IngenieroEnmanuel.10961caf9e7bae10613a.jpg",
+    "index.html": "/calculadora/index.html",
+    "main.41a321a2.css.map": "/calculadora/static/css/main.41a321a2.css.map",
+    "main.494260e2.js.map": "/calculadora/static/js/main.494260e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a321a2.css",
+    "static/js/main.494260e2.js"
+  ]
+}
